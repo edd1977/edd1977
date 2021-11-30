@@ -1,4 +1,5 @@
 ### Hi there 👋
+My name is Denis and I like **Git** & **GitHub** very much!
 
 <!--
 **edd1977/edd1977** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
